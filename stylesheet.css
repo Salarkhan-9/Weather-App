@@ -90,7 +90,7 @@ body {
     color: red;
     display: none;
 }
-p{
+#salar{
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
