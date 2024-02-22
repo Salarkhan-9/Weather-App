@@ -1,5 +1,5 @@
 # Weather-App
-The App enable us to seearch the latest weather of City,country . This show ,humidity ,wind speed and Temperature 
+The App enable us to search the latest weather of City,country . This show ,humidity ,wind speed and Temperature 
 
 ## Languages 
 ![icons8-js](https://github.com/Salarkhan-9/Weather-App/assets/98265148/3f9a4313-d0ea-4123-b4fa-1148838a2998)
